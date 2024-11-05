@@ -1,0 +1,20 @@
+button{
+    border-radius: 50px;
+    height: 40px;
+    width:40px;
+    background-color: rgba(99, 92, 91, 0.412);
+    color: white;
+
+}
+#inputarea{
+    display:grid;
+    grid-template-columns:repeat(4,1fr)
+}
+#operants{
+    background-color:rgb(255, 68, 0);
+}
+textarea{
+    background-color: black;
+    font-size: medium;
+    color: white;
+}
